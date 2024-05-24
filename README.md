@@ -36,3 +36,5 @@ View Shortened URL: The shortened URL will be displayed, along with a QR code fo
 Redirecting and Tracking Clicks
 Use the Shortened URL: Share the shortened URL. When someone visits it, they will be redirected to the original URL, and the click will be recorded.
 Track Clicks: The main page (index.php) displays a table of all links, showing the original URL, the shortened URL, the number of clicks, and the QR code.
+
+[Visit](https://enrichvoyage.com/)
