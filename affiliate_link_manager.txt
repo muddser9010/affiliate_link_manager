@@ -1,0 +1,11 @@
+affiliate_link_manager/
+├── index.php
+├── shorten.php
+├── redirect.php
+├── db/
+│   └── database.sqlite
+├── qrcode/
+│   └── phpqrcode.php
+└── assets/
+    └── css/
+        └── style.css
