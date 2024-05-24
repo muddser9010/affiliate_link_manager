@@ -1,10 +1,10 @@
 # affiliate_link_manager
 Affiliate Link Management Tool
 Overview
-The [Affiliate](https://enrichvoyage.com/affiliate-programs-that-pay-weekly/) Link Management Tool is a simple web application designed to help you manage, shorten, and track your [affiliate](https://enrichvoyage.com/best-ai-affiliate-programs/) links. This tool also generates QR codes for easy sharing and scanning.
+The [Affiliate](https://enrichvoyage.com/affiliate-programs-that-pay-weekly/) Link Management Tool is a simple web application designed to help you manage, shorten, and track your affiliate links. This tool also generates QR codes for easy sharing and scanning.
 
 Features
-Shorten URLs: Convert long affiliate URLs into short, manageable links.
+Shorten URLs: Convert long [affiliate](https://enrichvoyage.com/best-ai-affiliate-programs/) URLs into short, manageable links.
 Track Clicks: Monitor the number of clicks on each shortened URL.
 Generate QR Codes: Create QR codes for each shortened URL for easy sharing.
 
